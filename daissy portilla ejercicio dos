@@ -1,0 +1,7 @@
+peso_payaso = 112
+peso_muñeca = 75
+
+cantidad_payasos = 23
+cantidad_muñecas = 54
+
+peso_total_venta = (cantidad_payasos * peso_payaso) + (cantidad_muñecas * peso_muñeca)
